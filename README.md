@@ -11,14 +11,14 @@ codex plugin marketplace add aitsuki/powerset-marketplace
 codex plugin add powerset@powerset-marketplace
 ```
 
-再次添加市场（codex插件市场的奇葩更新方式），更新：
+更新：
 
 ```sh
+# 再次添加市场（codex插件市场的奇葩更新方式）
 codex plugin marketplace add aitsuki/powerset-marketplace
 codex plugin remove powerset@powerset-marketplace
 codex plugin add powerset@powerset-marketplace
 ```
-
 
 
 ### Claude Code
