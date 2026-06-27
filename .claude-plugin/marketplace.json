@@ -1,0 +1,22 @@
+{
+    "name": "powerset-marketplace",
+    "owner": {
+        "name": "aitsuki",
+        "email": "aitsukigo@gmail.com"
+    },
+    "metadata": {
+        "description": "Skills, workflows, and productivity tools",
+        "version": "1.0.0"
+    },
+    "plugins": [
+        {
+            "name": "powerset",
+            "source": {
+                "source": "url",
+                "url": "https://github.com/aitsuki/powerset.git"
+            },
+            "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques",
+            "strict": true
+        }
+    ]
+}
